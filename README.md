@@ -1,2 +1,2 @@
-# PROYEC-3
+# PROYECT-3
 Armado de CV y publicado en Netlify
